@@ -1,4 +1,4 @@
-# virtualkeypad
+# SelfMon VirtualKeypad
 SelfMon Java Based VirtualKeypad - For local network use with all Galaxy panels that have an Ethernet module fitted.
 
 You may download this software for personal non-commercial use, but you must not distribute without prior agreement from SelfMon Ltd. There is a
